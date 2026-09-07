@@ -1,0 +1,10 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$comment": "Forgex Agent Platform — Project Registry. Maintained by the Agent Builder agent. Do NOT edit manually unless correcting a mistake. All timestamps are ISO 8601.",
+  "version": "1.0.0",
+  "lastUpdated": "2026-07-14T00:00:00Z",
+  "projects": [
+    
+  ]
+}
+
